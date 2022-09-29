@@ -14,7 +14,7 @@ variables:
   # Web app name
   webAppName: 'java-spring-boot'
 
-  # Agent VM image name
+  # Agent VM image name test
   vmImageName: 'ubuntu-latest'
 
 stages:
